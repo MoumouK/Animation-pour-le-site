@@ -1,0 +1,48 @@
+html{
+  height:100%;
+}
+
+body{
+  width:100%;
+  height:100%;
+  margin:0;
+  padding:0;
+}
+
+.SectionCupcake{
+  background-color:black;
+  width:100%;
+  height:100%;
+  display:flex;
+  align-items: center;
+  flex-direction: column;
+}
+
+.Flame{
+  position : absolute;
+  top: 326px;
+
+}
+
+.Candle{
+  position : absolute;
+  top: 370px;
+}
+
+.Cake{
+  position : absolute;
+  top: 460px;
+}
+
+.Cup{
+  position : absolute;
+  top: 600px;
+}
+
+.Space{
+  width:100%;
+  height:300px;
+  background-color:black;
+   margin:0;
+  padding:0;
+}

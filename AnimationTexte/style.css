@@ -1,0 +1,42 @@
+@import url(https://fonts.googleapis.com/css?family=Sahitya");
+
+*{
+  font-family:'Sahitya';
+    font-size:30px;
+}
+
+
+.SectionTexte{
+    text-align:center;
+}
+
+.Partie{
+  display:inline;
+  position:relative;
+}
+
+.Partie.InchangerUn{ 
+  position:relative;
+  opacity:0;
+}
+
+.Partie.InchangerDeux{
+   position:relative;
+   opacity:0;
+}
+
+.Partie.VariableUn{
+  color: #E615BC;
+  font-size:40px;
+  position:relative;
+  top:50px;
+  opacity:0;
+}
+
+.Partie.VariableDeux{
+  color: #077DBE;
+  font-size:40px;
+  position:relative;
+  top:50px;
+  opacity:0;
+}
